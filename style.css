@@ -1,0 +1,35 @@
+    h1 {
+       background-color: #FDC9FF;
+       color: #fff;
+       text-align: center;
+    }
+    
+    a {
+      color: #FFB6F7;
+    }
+    body {
+      background-color: #A9F6FF;
+    }
+        /* mengubah div menjadi tampilan kartu */
+    div.kartu-profil {
+       background-color: #EBBAE8;
+       width: 280px;
+       margin: 20px auto;
+       padding: 20px;
+       border-radius: 15px;
+       box-shadow: 0 4px 8px rgba(164, 165, 248, 1);
+       text-align: center;
+    }
+    div.kartu-kontak {
+      background-color: #B6E7FF;
+      width: 220px;
+      margin: 23px auto;
+      padding: 20px;
+      text-align: center;
+    }
+    div.galeri {
+      width: 280px;
+      margin: 20px;
+      padding: 20px;
+      text-align: center;
+    }
